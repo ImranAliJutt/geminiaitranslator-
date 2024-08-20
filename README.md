@@ -51,6 +51,9 @@ To run this project locally:
 
 6. Open the application in your browser at `http://localhost:3000`.
 
+   ![GeminiAiTranslatorUserInterference](https://github.com/user-attachments/assets/bef76519-1b3f-4988-9c60-9132d298241f)
+
+
 ### Future Enhancements
 - **Support for More Languages:** Expand the number of languages available for translation.
 - **Text-to-Speech Integration:** Add a feature that reads out the translated text.
