@@ -51,7 +51,8 @@ To run this project locally:
 
 6. Open the application in your browser at `http://localhost:3000`.
 
-   ![GeminiAiTranslatorUserInterference](https://github.com/user-attachments/assets/bef76519-1b3f-4988-9c60-9132d298241f)
+![GeminiTranslatorUserInterference](https://github.com/user-attachments/assets/d93b444f-552d-40f2-94ca-625b9d82fb13)
+
 
 
 ### Future Enhancements
