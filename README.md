@@ -1,4 +1,4 @@
-## Gemini AI Translator
+## Gemini AI Translator  https://geminiaitranslatorapp.onrender.com/
 
 ### Overview
 The **Gemini AI Translator** is a simple and user-friendly translation application built using React and the Google Translate API. It allows users to input text in one language and translate it to another with just a few clicks. The application is designed with a clean, minimalistic user interface to ensure ease of use.
